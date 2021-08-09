@@ -1,0 +1,32 @@
+.canva {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 400px;
+    transform: translate(-50%, -50%);
+    background: url(https://i.ibb.co/Nt4zbvW/Screenshot-2021-08-08-102539.png);
+}
+
+.play {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+}
+
+.replay {
+    display: none;
+    cursor: pointer;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -40%);
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+}
