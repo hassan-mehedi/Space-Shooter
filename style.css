@@ -1,3 +1,22 @@
+ul{
+    margin: 0;
+    padding: 15px;
+    position: absolute;
+    top: 5%;
+    left: 50%;
+    width: 335px;
+    transform: translate(-50%, -50%);
+    list-style-type: none;
+    box-sizing: border-box;
+    background-color: #180331;
+}
+ul>li{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    border-bottom: 1px solid #fff;
+  
+}
 .canva {
     position: absolute;
     top: 50%;
